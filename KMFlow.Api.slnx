@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="KMFlow.Api/KMFlow.Api.csproj" />
+  <Project Path="KMFlow.Application/KMFlow.Application.csproj" />
+  <Project Path="KMFlow.Domain/KMFlow.Domain.csproj" />
+  <Project Path="KMFlow.Infrastucture/KMFlow.Infrastucture.csproj" />
+</Solution>
